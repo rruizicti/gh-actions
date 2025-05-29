@@ -1,0 +1,14 @@
+/home/roy/platzi/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/roy/platzi/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/roy/platzi/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/roy/platzi/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/roy/platzi/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/roy/platzi/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

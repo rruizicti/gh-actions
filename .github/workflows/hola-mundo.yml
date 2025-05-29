@@ -1,0 +1,20 @@
+name: hola-mundo
+on: [push]
+jobs:
+    hola-mundo:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+            - name: Set up dotnet
+              uses: actions/setup-dotnet@v4
+              with:
+                dotnet-version: '8.0.x'
+            - name: Install dependencies
+              run: cd HelloWorld && dotnet restore
+            - name: Build
+              run: dotnet build --configuration Release --no-restore
+            - name: Run 
+              run: dotnet run --configuration Release --no-build
+                
+              
