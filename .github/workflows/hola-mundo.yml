@@ -13,8 +13,8 @@ jobs:
             - name: Install dependencies
               run: cd HelloWorld && dotnet restore
             - name: Build
-              run: dotnet build --configuration Release --no-restore
+              run: cd HelloWorld && dotnet build --configuration Release --no-restore
             - name: Run 
-              run: dotnet run --configuration Release --no-build
+              run: cd HelloWorld && dotnet run --configuration Release --no-build
                 
               
